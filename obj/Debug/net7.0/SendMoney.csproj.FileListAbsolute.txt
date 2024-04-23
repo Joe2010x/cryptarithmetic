@@ -1,0 +1,15 @@
+/Users/joesun/piktiv/dailyCoding/SendMore/SendMoney/bin/Debug/net7.0/SendMoney
+/Users/joesun/piktiv/dailyCoding/SendMore/SendMoney/bin/Debug/net7.0/SendMoney.deps.json
+/Users/joesun/piktiv/dailyCoding/SendMore/SendMoney/bin/Debug/net7.0/SendMoney.runtimeconfig.json
+/Users/joesun/piktiv/dailyCoding/SendMore/SendMoney/bin/Debug/net7.0/SendMoney.dll
+/Users/joesun/piktiv/dailyCoding/SendMore/SendMoney/bin/Debug/net7.0/SendMoney.pdb
+/Users/joesun/piktiv/dailyCoding/SendMore/SendMoney/obj/Debug/net7.0/SendMoney.csproj.AssemblyReference.cache
+/Users/joesun/piktiv/dailyCoding/SendMore/SendMoney/obj/Debug/net7.0/SendMoney.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joesun/piktiv/dailyCoding/SendMore/SendMoney/obj/Debug/net7.0/SendMoney.AssemblyInfoInputs.cache
+/Users/joesun/piktiv/dailyCoding/SendMore/SendMoney/obj/Debug/net7.0/SendMoney.AssemblyInfo.cs
+/Users/joesun/piktiv/dailyCoding/SendMore/SendMoney/obj/Debug/net7.0/SendMoney.csproj.CoreCompileInputs.cache
+/Users/joesun/piktiv/dailyCoding/SendMore/SendMoney/obj/Debug/net7.0/SendMoney.dll
+/Users/joesun/piktiv/dailyCoding/SendMore/SendMoney/obj/Debug/net7.0/refint/SendMoney.dll
+/Users/joesun/piktiv/dailyCoding/SendMore/SendMoney/obj/Debug/net7.0/SendMoney.pdb
+/Users/joesun/piktiv/dailyCoding/SendMore/SendMoney/obj/Debug/net7.0/SendMoney.genruntimeconfig.cache
+/Users/joesun/piktiv/dailyCoding/SendMore/SendMoney/obj/Debug/net7.0/ref/SendMoney.dll
